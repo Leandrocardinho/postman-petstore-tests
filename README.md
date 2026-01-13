@@ -11,3 +11,10 @@ Este repositório contém a coleção de testes da **API Swagger Petstore** no P
 - Testes de API organizados por endpoints (Pets, Usuários, Pedidos)  
 - Permite execução direta dos testes na interface Postman  
 - Ideal para aprendizado e demonstração de **Data-Driven Testing** e boas práticas de API
+
+- ## 📹 Demonstração do Teste no Postman
+
+[![Veja o vídeo de demonstração](https://img.youtube.com/vi/VIDEO_ID_AQUI/0.jpg)](https://www.loom.com/share/77886587e00d41fab7969214da00d09a)
+
+Clique na imagem para assistir à demonstração!
+
