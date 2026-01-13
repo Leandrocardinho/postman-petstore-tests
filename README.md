@@ -14,7 +14,8 @@ Este repositório contém a coleção de testes da **API Swagger Petstore** no P
 
 - ## 📹 Demonstração do Teste no Postman
 
-[![Veja o vídeo de demonstração](https://img.youtube.com/vi/VIDEO_ID_AQUI/0.jpg)](https://www.loom.com/share/77886587e00d41fab7969214da00d09a)
+Veja o vídeo de demonstração
+(https://img.youtube.com/vi/VIDEO_ID_AQUI/0.jpg)](https://www.loom.com/share/77886587e00d41fab7969214da00d09a)
 
 Clique na imagem para assistir à demonstração!
 
