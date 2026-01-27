@@ -1,19 +1,23 @@
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![JSON](https://img.shields.io/badge/json-5E5E5E?style=for-the-badge&logo=json&logoColor=white)
+
 Este repositório contém uma suíte de testes automatizados desenvolvida no **Postman** para a [API Swagger Petstore](https://petstore.swagger.io/). O foco do projeto é garantir a integridade, segurança e o comportamento esperado dos endpoints de Pets, Store e User.
 
 ---
 
 ## 📌 Tecnologias e Conceitos Aplicados
-* [cite_start]**Ferramenta:** Postman [cite: 31]
-* **Linguagem de Script:** JavaScript (Postman Sandbox)
+* **Ferramenta:** Postman 
+* **Linguagem de Script:** JavaScript 
 * **Validações:** Status Codes, JSON Schema, Response Time e Contract Testing.
-* [cite_start]**Técnicas:** Data-Driven Testing (Testes baseados em dados) e variáveis de ambiente. 
+* **Técnicas:** Data-Driven Testing (Testes baseados em dados) e variáveis de ambiente. 
 
 ---
 
 ## ⚙️ Funcionalidades Testadas
-- [cite_start]**Pets:** Criação, consulta por ID/status, atualização e exclusão de animais. 
-- [cite_start]**Store:** Gestão de pedidos e verificação de inventário. 
-- [cite_start]**User:** Ciclo de vida completo do usuário (CRUD). 
+- **Pets:** Criação, consulta por ID/status, atualização e exclusão de animais. 
+- **Store:** Gestão de pedidos e verificação de inventário. 
+- **User:** Ciclo de vida completo do usuário (CRUD). 
 
 ---
 
